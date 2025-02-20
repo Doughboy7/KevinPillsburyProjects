@@ -215,21 +215,21 @@ class OrgStruct {
 // let orgStruct
 let myOrgStruct = new OrgStruct();
 
-myOrgStruct.add(2, "Kevin");
-myOrgStruct.add(1, "Bob");
-myOrgStruct.print();
-console.log("\n----------------------------------------------\n")
-myOrgStruct.add(3, "Tim", 1);
-myOrgStruct.print();
-console.log("\n----------------------------------------------\n")
-myOrgStruct.move(3, 2);
-myOrgStruct.print();
-console.log("\n----------------------------------------------\n")
-myOrgStruct.move(2, 1);
-myOrgStruct.add(4, "Ralph", 2);
-myOrgStruct.print();
-myOrgStruct.countReports(1);
-console.log("\n----------------------------------------------\n")
-myOrgStruct.remove(2);
-myOrgStruct.print();
-myOrgStruct.countReports(1);
+// myOrgStruct.add(2, "Kevin");
+// myOrgStruct.add(1, "Bob");
+// myOrgStruct.print();
+// console.log("\n----------------------------------------------\n")
+// myOrgStruct.add(3, "Tim", 1);
+// myOrgStruct.print();
+// console.log("\n----------------------------------------------\n")
+// myOrgStruct.move(3, 2);
+// myOrgStruct.print();
+// console.log("\n----------------------------------------------\n")
+// myOrgStruct.move(2, 1);
+// myOrgStruct.add(4, "Ralph", 2);
+// myOrgStruct.print();
+// myOrgStruct.countReports(1);
+// console.log("\n----------------------------------------------\n")
+// myOrgStruct.remove(2);
+// myOrgStruct.print();
+// myOrgStruct.countReports(1);
